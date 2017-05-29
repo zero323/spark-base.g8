@@ -2,7 +2,7 @@
 
 A minimal Giter8 template for the Apache Spark applications.
 
-Usage:
+## Usage
 
 ```bash
 sbt new zero323/spark-base.g8 
